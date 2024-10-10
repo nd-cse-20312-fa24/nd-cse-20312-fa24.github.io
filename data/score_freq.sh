@@ -49,21 +49,6 @@ output_quotes() {
 EOF
 }
 
-# output_ulysses() {
-#     cat <<EOF
-# 15121   the
-# 8263    of
-# 7280    and
-# 6556    a
-# 5041    to
-# 4986    in
-# 4034    he
-# 3330    his
-# 2687    i
-# 2621    that
-# EOF
-# }
-
 output_ulysses() {
     cat <<EOF
 the
